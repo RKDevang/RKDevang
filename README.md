@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkdevang&label=Profile%20views&color=0e75b6&style=flat" alt="rkdevang" /> </p>
 
-<p align="left"> <a href="https://x.com/devang33333" target="blank"><img src="https://img.shields.io/twitter/follow/devang33333?logo=twitter&style=for-the-badge" alt="devang33333" /></a> </p>
-
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/devang33333)
 
 - 🔭 I’m a **Student**.
 
