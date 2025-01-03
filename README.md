@@ -21,7 +21,7 @@ They won't meet each other at a time. If they meet, that is the BEST MOMENT IN Y
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devang33333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devang33333" height="30" width="40" /></a>
-<a href="rkdevang-gujarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkdevang-gujarati" height="30" width="40" /></a>
+<a href="RKDevang Gujarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RKDevang Gujarati" height="30" width="40" /></a>
 <a href="https://instagram.com/devannggujarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devannggujarati" height="30" width="40" /></a>
 </p>
 
